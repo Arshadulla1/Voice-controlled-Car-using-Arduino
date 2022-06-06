@@ -1,5 +1,5 @@
 # Voice-controlled-Car-using-Arduino
-Robot should be controlled by the given voice commands from the phone. The voice is transferred from the mobile phone application to the Bluetooth module connected to the Arduino. Based on the commands for ex: If we say “10 forward” the robot should move 10 centimetres forward. 
+Robot controlled by the given voice commands from the phone. The voice is transferred from the mobile phone application to the Bluetooth module connected to the Arduino. Based on the commands for ex: If we say “10 forward” the robot should move 10 centimetres forward. 
 Required Components: 
 1. Arduino UNO with cable 
 2. Bluetooth HC-05 
